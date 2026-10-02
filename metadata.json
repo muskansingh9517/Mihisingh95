@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI",
+  "description": "Smart AI Chat & Search Assistant like ChatGPT and Google AI, powered by Gemini. Supports conversation history, smart prompts, web exploration, and voice input.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
